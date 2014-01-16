@@ -8,8 +8,9 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{F2C713A8-4F84-4396-BD71-B8BD73450947}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>WajibPramuka.My.MyApplication</StartupObject>
-    <RootNamespace>WajibPramuka</RootNamespace>
+    <StartupObject>My.MyApplication</StartupObject>
+    <RootNamespace>
+    </RootNamespace>
     <AssemblyName>WajibPramuka</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
